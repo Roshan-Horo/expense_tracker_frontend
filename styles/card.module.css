@@ -1,0 +1,8 @@
+.card{
+    position: absolute;
+    width: 400px;
+    height: 250px;
+    /* background-color: black; */
+    background-image: url("../public/card_bg.png");
+    background-repeat: no-repeat;
+}
